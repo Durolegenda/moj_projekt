@@ -22,7 +22,11 @@ const int STEVILO_VALUT = 5;
 
 void izpisiMenu() {
     cout << "\n=== Menjalnik valut ===\n";
+<<<<<<< HEAD
     cout << "1. EUR\n";//komentar 2 na master
+=======
+    cout << "1. EUR\n";//komentar 1
+>>>>>>> my_branch
     cout << "2. USD\n";
     cout << "3. GBP\n";
     cout << "4. CHF\n";
