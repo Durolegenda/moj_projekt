@@ -22,7 +22,7 @@ const int STEVILO_VALUT = 5;
 
 void izpisiMenu() {
     cout << "\n=== Menjalnik valut ===\n";
-    cout << "1. EUR\n";
+    cout << "1. EUR\n";//komentar 1
     cout << "2. USD\n";
     cout << "3. GBP\n";
     cout << "4. CHF\n";
