@@ -42,7 +42,7 @@ int izberiValuto(const string& opis) {
             return izbira;
         }
 
-        cout << "Neveljavna izbira. Poskusite ponovno.\n";
+        cout << "Neveljavna izbira. Poskusite ponovno.\n";//sprememba
         cin.clear();
         cin.ignore(numeric_limits<streamsize>::max(), '\n');
     }
